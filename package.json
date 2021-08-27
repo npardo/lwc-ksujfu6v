@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/npardo.lwc-ksujfu6v",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 7mFulMrFhZqR6bDaWzZZ --open"
+  }
+}
